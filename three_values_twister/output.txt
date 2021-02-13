@@ -1,0 +1,7 @@
+phpversion: 7.4.3
+R624 = 1355541750
+R851 = 602658525
+R1078 = 173373131
+R2048 = ?
+flag = "FEAjLtaf9bQ7oJCY53mV3IJOWDVi7donm6KEb9yjsxkCjuz0gpluD1vczeQGb8Pg"
+

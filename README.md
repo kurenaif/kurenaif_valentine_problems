@@ -1,5 +1,7 @@
 # kurenaif Valentine Problems
 
+ハッシュタグ: #kurenaifChallenge
+
 この問題集はkurenaifのバレンタインプレゼント(1000人記念、誕生日記念込)だ！
 ぜひぜひ楽しんでな〜〜
 あ、バレンタインのお返しはwriteupでよろしく！

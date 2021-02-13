@@ -1,6 +1,6 @@
 # kurenaif Valentine Problems
 
-ハッシュタグ: #kurenaifChallenge
+ハッシュタグ: [#kurenaifChallenge](https://twitter.com/search?q=%23kurenaifChallenge)
 
 この問題集はkurenaifのバレンタインプレゼント(1000人記念、誕生日記念込)だ！
 ぜひぜひ楽しんでな〜〜
